@@ -1,1 +1,4 @@
-# BARCELONA_NO_MEU_OVO
+-----Davi Elias; Witor Tenã-----
+
+-PROJETO JAVA SCRIPT ALURA 3 TRIMESTRE-
+-E É ISSO-
