@@ -1,4 +1,3 @@
------Davi Elias; Witor Tenã-----
+#-----Davi Elias; Witor Tenã-----
 
--PROJETO JAVA SCRIPT ALURA 3 TRIMESTRE-
--E É ISSO-
+#-PROJETO JAVA SCRIPT ALURA 3 TRIMESTRE-
