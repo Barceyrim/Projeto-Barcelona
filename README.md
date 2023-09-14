@@ -1,3 +1,5 @@
 #-----Davi Elias; Witor Tenã-----
 
 #-PROJETO JAVA SCRIPT ALURA 3 TRIMESTRE-
+
+----2 ANO B ; COLÉGIO POLIVALENTE LONDRINA EFMP----
