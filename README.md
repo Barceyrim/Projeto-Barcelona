@@ -1,4 +1,4 @@
-#-----Davi Elias; Witor Tenã-----
+#-----Davi Elias; Witor Tenã; Kauã Felipe-----
 
 #-PROJETO JAVA SCRIPT ALURA 3 TRIMESTRE-
 
